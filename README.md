@@ -1,6 +1,3 @@
-# qetl
-Qetl is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives. 
-
 # QETL SDK
 
 [![PyPI version](https://badge.fury.io/py/qetl-sdk.svg)](https://badge.fury.io/py/qetl-sdk)
