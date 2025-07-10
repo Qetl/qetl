@@ -1,0 +1,2 @@
+[console_scripts]
+qetl = qetl_sdk.cli:main
